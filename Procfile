@@ -1,1 +1,1 @@
-uvicorn main:app --reload
+gunicorn main:app
