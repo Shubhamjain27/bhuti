@@ -214,7 +214,7 @@ starlette==0.12.9
 tblib==1.5.0
 tensorboard==2.0.2
 tensorboardX==1.2
-tensorflow==2.0.0
+tensorflow==2.0.3
 tensorflow-estimator==2.0.1
 termcolor==1.1.0
 terminado==0.8.2
