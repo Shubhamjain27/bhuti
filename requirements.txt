@@ -60,7 +60,7 @@ fastapi==0.42.0
 flair==0.3.2
 flaky==3.5.3
 Flask==1.0.2
-Flask-Cors==3.0.7
+Flask-Cors==3.0.9
 Flask-RESTful==0.3.7
 flatten-json==0.1.6
 fsspec==0.6.1
