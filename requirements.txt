@@ -165,7 +165,7 @@ py==1.8.0
 pyaml==18.11.0
 pyasn1==0.4.5
 pyasn1-modules==0.2.4
-pycares==3.0.0
+pycares==4.2.0
 pycparser==2.19
 pycryptodome==3.7.3
 pydantic==0.32.2
